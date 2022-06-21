@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "deneme2.md",
+            "file": "inbox.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deneme2.md",
+                "file": "inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "0283ad5e7c7ce4a2",
   "lastOpenFiles": [
+    "inbox.md",
     "deneme2.md"
   ]
 }
